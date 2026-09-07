@@ -197,28 +197,32 @@ The program produces the following results:
 
 > Add your input image here.
 
-<img width="265" height="294" alt="image" src="https://github.com/user-attachments/assets/e8e1dd09-a8d1-4513-8c9b-47aa1aea852f" />
+<img width="270" height="368" alt="image" src="https://github.com/user-attachments/assets/a8abbd0f-e1f5-4329-9904-9892169edd44" />
+
 
 
 ### 2. Grayscale Image
 
 > Add your grayscale output here.
 
-<img width="263" height="345" alt="image" src="https://github.com/user-attachments/assets/d1ad1a44-8666-47f4-9f1b-c7c8227a9bab" />
+<img width="270" height="370" alt="image" src="https://github.com/user-attachments/assets/c84b0b2c-e666-4445-a6e9-ed89b0972107" />
+
 
 
 ### 3. Canny Edge Detector
 
 > Add your Canny edge detection output here.
 
-<img width="268" height="341" alt="image" src="https://github.com/user-attachments/assets/80988dcb-fb5e-45a8-85d6-9da48981cb77" />
+<img width="285" height="382" alt="image" src="https://github.com/user-attachments/assets/14209eb7-e940-4e7a-85fc-b07cafb3b509" />
+
 
 
 ### 4. Detected Lines
 
 > Add your final Hough Transform output here.
 
-<img width="265" height="348" alt="image" src="https://github.com/user-attachments/assets/a4ba25de-cb4b-4f4a-aa37-60a7ab0016b9" />
+<img width="279" height="379" alt="image" src="https://github.com/user-attachments/assets/0ada8273-9212-436c-aa88-a1e69ca9e944" />
+
 
 
 ---
